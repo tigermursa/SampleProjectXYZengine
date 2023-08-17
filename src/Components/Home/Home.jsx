@@ -1,11 +1,12 @@
-import React from 'react';
+import React from "react";
+import TwoStepForm from "../TwoStepForm/TwoStepForm";
 
 const Home = () => {
-    return (
-        <div>
-            home
-        </div>
-    );
+  return (
+    <div>
+      <TwoStepForm />
+    </div>
+  );
 };
 
 export default Home;
