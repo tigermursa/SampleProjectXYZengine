@@ -98,7 +98,7 @@ const ResultTable = () => {
         </div>
         {/* Download button here */}
         <button
-          className="bg-purple-500 hover:bg-purple-700 text-white px-4 py-2 rounded mt-9"
+          className="bg-purple-500 hover:bg-purple-700 text-white px-4 py-2 rounded mt-9 "
           onClick={handleDownloadPDF}
         >
           Download PDF
