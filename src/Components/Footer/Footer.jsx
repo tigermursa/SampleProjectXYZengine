@@ -5,7 +5,10 @@ const Footer = () => {
     <div>
       <footer className="footer footer-center p-4  text-white font-semibold text-xl  ">
         <div>
-          <p>Copyright © 2023 - All right reserved by XYZ Industries Ltd</p>
+          <p>
+            Copyright © 2023 - All right reserved by XYZ Industries Ltd by
+            Mursalin
+          </p>
         </div>
       </footer>
     </div>
