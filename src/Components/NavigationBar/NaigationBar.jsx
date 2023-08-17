@@ -49,6 +49,7 @@ const NaigationBar = () => {
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 font-bold flex gap-3">
+            {/* lg nav items here */}
             <li>
               <NavLink to="/">Home</NavLink>
             </li>
