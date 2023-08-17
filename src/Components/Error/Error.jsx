@@ -29,7 +29,7 @@ const Error = () => {
 
                 <animated.div className="contant_box_404" style={slideInProps}>
                   <h3 className="h2 text-xl">I advised you not to click.</h3>
-                  <p className="text-xl">the page you are looking for is not available!!</p>
+                  <p className="text-xl">the page you are looking for is not available!</p>
                   <a href="/" className="link_404">
                     Go to Home
                   </a>
